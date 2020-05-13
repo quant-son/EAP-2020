@@ -22,3 +22,6 @@ python의 statsmodels의 VAR class와 GMM class를 활용하여 구현하였습�
 [HW1/RM.py](https://github.com/quant-son/EAP-2020/blob/master/HW1/RM.py) : Table 1의 joint significance 및 R^2를 계산하기 위한 클래스  
 [HW1/get_table.py](https://github.com/quant-son/EAP-2020/blob/master/HW1/get_table.py) : Table 1 및 2를 출력하기 위한 클래스  
   
+[HW1/main.py](https://github.com/quant-son/EAP-2020/blob/master/HW1/main.py) 실행결과
+---------------------------------------------------------------------------------------
+![table](./HW1/example.PNG)

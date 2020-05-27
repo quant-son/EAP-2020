@@ -11,7 +11,6 @@ table1.py, table2.py : 테이블1, 3의 결과 제작용 코드
   
 HW1
 ================
-paper : https://dash.harvard.edu/bitstream/handle/1/3207695/campbell_variancedecomposition.pdf?sequence%3D2  
 [HW1/main.py](https://github.com/quant-son/EAP-2020/blob/master/HW1/main.py) 실행결과
 ---------------------------------------------------------------------------------------
 ![table](./HW1/example.PNG)  
@@ -19,6 +18,7 @@ paper : https://dash.harvard.edu/bitstream/handle/1/3207695/campbell_variancedec
 
 설명
 ---------------
+paper : https://dash.harvard.edu/bitstream/handle/1/3207695/campbell_variancedecomposition.pdf?sequence%3D2
 기간 : 1962-01 ~ 2019-12  
   
 사용 데이터 :  

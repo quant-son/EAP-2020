@@ -1,3 +1,13 @@
+HW2
+================
+Codes with data : https://drive.google.com/file/d/1pTbm1-n-lUPdbJh4sYQJnmZQvgBnWhEw/view?usp=sharing  
+기간 : 1962년 1월 ~ 2019년 12월  
+make_variables.py : 개별 독립변수 및 데이터 전처리용 코드  
+matching_code.py : CRSP와 Compustat의 permno와 gvkey를 연결해주는 코드  
+parallel_ols.py : 멀티프로세스 프로그래밍을 활용한 OLS  
+table1.py, table2.py : 테이블1, 3의 결과 제작용 코드  
+  
+  
 HW1
 ================
 [HW1/main.py](https://github.com/quant-son/EAP-2020/blob/master/HW1/main.py) 실행결과
